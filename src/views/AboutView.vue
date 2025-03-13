@@ -85,6 +85,9 @@
               <!-- 兴趣特长目录 -->
               <template v-if="item.id === 'interests'">
                 <!-- 兴趣特长的目录项 -->
+                <li>
+                    摄影作品
+                </li>
               </template>
             </ul>
           </transition>
@@ -276,7 +279,6 @@
 
         <!-- 兴趣特长 -->
         <div v-if="currentSection === 'interests'" class="interests-content">
-          <h3>兴趣特长</h3>
           <div class="interests-list">
             <!-- 摄影展示部分 -->
             <div class="interest-section">

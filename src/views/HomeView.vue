@@ -15,7 +15,7 @@
         </p>
         <div class="home-cta">
           <a href="about" class="primary-btn">关于我</a>
-          <a href="#contact" class="secondary-btn">联系我</a>
+          <a href="resume" class="secondary-btn">联系我</a>
         </div>
       </div>
     </section>
