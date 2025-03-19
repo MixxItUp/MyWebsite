@@ -18,8 +18,8 @@
     <footer class="footer">
       <div class="footer-content">
         <div class="social-links">
-          <a href="#" target="_blank"><i class="fab fa-github"></i></a>
-          <a href="#" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="#" target="_blank"><i class="fab fa-qq"></i></a>
+          <a href="#" target="_blank"><i class="fab fa-weixin"></i></a>
           <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
         </div>
         <p class="copyright">© 2024 Yu Lin. All rights reserved.</p>
